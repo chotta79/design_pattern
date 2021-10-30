@@ -1,3 +1,3 @@
 # Design Pattern Examples
 
-This examples are for illustrating proper usage of design patterns with examples.
+These examples illustrate examples on various design patterns in C++
